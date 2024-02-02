@@ -1,3 +1,15 @@
+# Introduction 
+**You can click the button below to download the project:**
+[<img src="https://i.imgur.com/Nkja8PR.png" alt="Download from Google Drive" style="width: 128px; height: 32px;">](https://drive.google.com/drive/folders/16EyKaGnn3eb-FftpjSQLzRr9PReT1TZk?usp=drive_link)
+
+**Our teammembers are:**
+- Yi-Hsuan Hung (Shannon)
+- Ya-Hsien Kuo (Clara)	
+- Nikolai Rekow 
+
+# Environment 
+- Python above 3.8.0 or 3.12.0 
+- Pyspark 3.5.0
 
 # Getting Start
 - `data`: The folder contains all the data used in the project.
