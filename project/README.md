@@ -2,6 +2,17 @@
 **You can click the button below to download the project:**
 [<img src="https://i.imgur.com/Nkja8PR.png" alt="Download from Google Drive" style="width: 128px; height: 32px;">](https://drive.google.com/drive/folders/16EyKaGnn3eb-FftpjSQLzRr9PReT1TZk?usp=drive_link)
 
+**More datasets**
+Due to the limit of google drive space. Here you can find additional archives (Dec 2019 - Apr 2020) and put them into your `data` folder. The links are here:
+
+- [2019-Oct.csv.gz](https://data.rees46.com/datasets/marketplace/2019-Oct.csv.gz) (1.62Gb)
+- [2019-Nov.csv.gz](https://data.rees46.com/datasets/marketplace/2019-Nov.csv.gz) (2.69Gb)
+- [2019-Dec.csv.gz](https://data.rees46.com/datasets/marketplace/2019-Dec.csv.gz) (2.74Gb)
+- [2020-Jan.csv.gz](https://data.rees46.com/datasets/marketplace/2020-Jan.csv.gz) (2.23Gb)
+- [2020-Feb.csv.gz](https://data.rees46.com/datasets/marketplace/2020-Feb.csv.gz) (2.19Gb)
+- [2020-Mar.csv.gz](https://data.rees46.com/datasets/marketplace/2020-Mar.csv.gz) (2.25Gb)
+- [2020-Apr.csv.gz](https://data.rees46.com/datasets/marketplace/2020-Apr.csv.gz) (2.73Gb)
+
 **Our teammembers are:**
 - Yi-Hsuan Hung (Shannon)
 - Ya-Hsien Kuo (Clara)	
