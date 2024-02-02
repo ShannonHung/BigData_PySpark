@@ -14,7 +14,8 @@
 # Getting Start
 - `data`: The folder contains all the data used in the project.
 - `.code/1-Scaling-Observation.ipynb`: The jupyter notebook for testing the scaling of the data.
-  - **TODO (Clara): Add the description of the RFM segmentation.**
+  - Testing with 7 files that the amount of data increases in the orders of magnitude (1x/10x/100x/1000x/10000x/200000x/1000000x)
+  - Testing with 5 types of different hardware configurations
 - `.code/2-Fault-Tolerance.ipynb`: The jupyter notebook for testing the fault tolerance of the data.
   - Creating a cluster with 3 nodes. 
   - Testing with killing the java process of one of the nodes.
