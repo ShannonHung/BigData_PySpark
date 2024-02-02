@@ -21,7 +21,9 @@
   - Testing with killing the java process of one of the nodes.
   - See if the cluster can still work and how the spark cluster handle the fault and achieve the fault tolerance. 
 - `.code/3-RFM-Segmentation.ipynb`: The jupyter notebook for testing the RFM segmentation of the data.
-  - **TODO (Niko): Add the description of the RFM segmentation.**
+  - Solving the Big Data usecase for RFM
+  - Scaling the data based on standalone cluster
+  - Changing cluster configuration to observe how it affects the resources and performance
 
 ```bash 
 .
